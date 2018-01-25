@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drag_drop>
+   <title>Grammar: Adjectives</title>
+   <directions>Read each sentence. Drag the adjective that best completes the sentences to the line.</directions>
+   <directionsAudio />
+   <sfxPool value="pool1" />
+   <background value="yellow3" />
+   <itemReplenishmentMode value="singular" />
+   <rounds>
+      <round>
+         <screens>
+            <item>
+               <fontSize />
+               <image />
+               <audio />
+               <sentence>
+                  <p>We felt a [cold] wind.</p>
+                  <p>I asked [six] friends to come to my party.</p>
+                  <p>The [loud] truck woke us up.</p>
+               </sentence>
+               <wordPairs>
+                  <pair>
+                     <left />
+                     <right />
+                  </pair>
+               </wordPairs>
+               <distractors>
+                  <distractor>
+                     <text />
+                  </distractor>
+               </distractors>
+               <gapAudioScheme value="noAudio" />
+               <gapAudios>
+                  <gapAudio>
+                     <gap />
+                     <audio />
+                  </gapAudio>
+               </gapAudios>
+            </item>
+         </screens>
+      </round>
+      <round>
+         <screens>
+            <item>
+               <fontSize />
+               <image />
+               <audio />
+               <sentence>
+                  <p>I play outside on [sunny] days.</p>
+                  <p>Dad has a [black] car.</p>
+                  <p>Jim fell on the [hard] ice.</p>
+                  <p>Did the story have a [happy] ending?</p>
+               </sentence>
+               <wordPairs>
+                  <pair>
+                     <left />
+                     <right />
+                  </pair>
+               </wordPairs>
+               <distractors>
+                  <distractor>
+                     <text />
+                  </distractor>
+               </distractors>
+               <gapAudioScheme value="noAudio" />
+               <gapAudios>
+                  <gapAudio>
+                     <gap />
+                     <audio />
+                  </gapAudio>
+               </gapAudios>
+            </item>
+         </screens>
+      </round>
+      <round>
+         <screens>
+            <item>
+               <fontSize />
+               <image />
+               <audio />
+               <sentence>
+                  <p>Did you hear the [silly] joke?</p>
+                  <p>We saw the [red] fox.</p>
+                  <p>The dog had  [four] legs.</p>
+                  <p>Stay away from the [hot] flame!</p>
+               </sentence>
+               <wordPairs>
+                  <pair>
+                     <left />
+                     <right />
+                  </pair>
+               </wordPairs>
+               <distractors>
+                  <distractor>
+                     <text />
+                  </distractor>
+               </distractors>
+               <gapAudioScheme value="noAudio" />
+               <gapAudios>
+                  <gapAudio>
+                     <gap />
+                     <audio />
+                  </gapAudio>
+               </gapAudios>
+            </item>
+         </screens>
+      </round>
+      <round>
+         <screens>
+            <item>
+               <fontSize />
+               <image />
+               <audio />
+               <sentence>
+                  <p>Kate put [five] flowers in the vase.</p>
+                  <p>Please sweep the [dusty] floor.</p>
+                  <p>Put the [wet] raincoat on the hook.</p>
+                  <p>The [shy] child sat with Ms. Wells.</p>
+               </sentence>
+               <wordPairs>
+                  <pair>
+                     <left />
+                     <right />
+                  </pair>
+               </wordPairs>
+               <distractors>
+                  <distractor>
+                     <text />
+                  </distractor>
+               </distractors>
+               <gapAudioScheme value="noAudio" />
+               <gapAudios>
+                  <gapAudio>
+                     <gap />
+                     <audio />
+                  </gapAudio>
+               </gapAudios>
+            </item>
+         </screens>
+      </round>
+      <round>
+         <screens>
+            <item>
+               <fontSize />
+               <image />
+               <audio />
+               <sentence>
+                  <p>A [tiny] ant ran by.</p>
+                  <p>Shel sang a [sad] song.</p>
+                  <p>We need a [windy] day to fly our kite.</p>
+                  <p>The [tall] girl could reach the top shelf.</p>
+               </sentence>
+               <wordPairs>
+                  <pair>
+                     <left />
+                     <right />
+                  </pair>
+               </wordPairs>
+               <distractors>
+                  <distractor>
+                     <text />
+                  </distractor>
+               </distractors>
+               <gapAudioScheme value="noAudio" />
+               <gapAudios>
+                  <gapAudio>
+                     <gap />
+                     <audio />
+                  </gapAudio>
+               </gapAudios>
+            </item>
+         </screens>
+      </round>
+      <round>
+         <screens>
+            <item>
+               <fontSize />
+               <image />
+               <audio />
+               <sentence>
+                  <p>I will tell you a [funny] joke.</p>
+                  <p>Tom will sit in the [first] seat.</p>
+                  <p>We took a [slow] stroll.</p>
+                  <p>Pat sat on the [rocky] shore.</p>
+                  <p>Did you see the [gray] shark?</p>
+               </sentence>
+               <wordPairs>
+                  <pair>
+                     <left />
+                     <right />
+                  </pair>
+               </wordPairs>
+               <distractors>
+                  <distractor>
+                     <text />
+                  </distractor>
+               </distractors>
+               <gapAudioScheme value="noAudio" />
+               <gapAudios>
+                  <gapAudio>
+                     <gap />
+                     <audio />
+                  </gapAudio>
+               </gapAudios>
+            </item>
+         </screens>
+      </round>
+   </rounds>
+</drag_drop>
